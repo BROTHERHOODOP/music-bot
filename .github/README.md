@@ -1,6 +1,6 @@
 
  <h2 align="center">   
-    ──「 𝗚𝗝𝟱𝟭𝟲 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
+    ──「 HunterX 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
    </h2>  
  <p align="center">   
 <img src="https://te.legra.ph/file/1ef8c37b037bcb687e2c3.jpg">   
@@ -107,5 +107,5 @@
    ─「 ᴄʀᴇᴅɪᴛs 」─ 
  </h3> 
 
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516VCBOT) </b> 
+ - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/BROTHERHOODOP)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516VCBOT) </b> 
 ━━━━━━━━━━━━━━━━━━━━
